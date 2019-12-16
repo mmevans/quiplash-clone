@@ -17,8 +17,8 @@ Player answering prompts (round 1)
 
 Pictures of voting screens from players view and game view
 
-![Voting screen from game view](game_view_voting)
-![Voting screen from players view](player_view_voting)
+![Voting screen from game view](game_view_voting.gif)
+![Voting screen from players view](player_view_voting.gif)
 
 
 
