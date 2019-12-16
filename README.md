@@ -15,11 +15,6 @@ Main-Lobby: Players joining in realtime
 Player answering prompts (round 1)
 ![](player_view_pt1.gif)
 
-Pictures of voting screens from players view and game view
-
-![Voting screen from game view](game_view_voting.gif)
-![Voting screen from players view](player_view_voting.gif)
-
 
 
 Progress & Updates
